@@ -27,3 +27,5 @@ Live site: https://YOUR-USERNAME.github.io/week-1-checkpoint/
 | 9   | Update ACP log                         | Update ACp Readme         | main   |
 | 10  | add sites i like                       | add sites i like          | main   |
 | 11  | Update ACP log                         | Update ACP Readme         | main   |
+| 11  | add live site to README                | Live site on readme       | main   |
+| 12  | Update ACP log                         | Update ACP Readme         | main   |
