@@ -2,7 +2,7 @@
 
 # Week 1 Checkpoint
 
-Live site: https://YOUR-USERNAME.github.io/week-1-checkpoint/
+Live site: https://el-veloz85.github.io/week-1-checkpoint/
 
 ## My setup
 
