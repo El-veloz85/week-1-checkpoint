@@ -21,5 +21,6 @@
 | 5   | Added a list of things I like          | Add list of things I like | main   |
 | 6   | Added my goals                         | Add my goals section      | main   |
 | 7   | Update ACP log                         | Update ACp Readme         | main   |
-| 8   | Add slant and strong attributes, add.. | Update ACp Readme         | main   |
+| 8   | Add slant and strong attributes, add.. | edit header fonts         | main   |
 | 9   | Update ACP log                         | Update ACp Readme         | main   |
+| 10  | add sites i like                       | add sites i like          | main   |
