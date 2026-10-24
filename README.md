@@ -6,11 +6,11 @@ Live site: https://el-veloz85.github.io/week-1-checkpoint/
 
 ## My setup
 
-- Operating system:
+- Operating system: Windows 11 Home Insider Preview
 - Editor: VS Code
-- Git version: (paste output of: git --version)
-- Git name: (paste output of: git config user.name)
-- Git email: (paste output of: git config user.email)
+- Git version: (paste output of: git --version): 2.56.0.windows.2
+- Git name: (paste output of: git config user.name): Carlos V.
+- Git email: (paste output of: git config user.email):velozcarlos85@gmail.com
 
 ## ACP log
 
