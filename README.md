@@ -2,6 +2,8 @@
 
 # Week 1 Checkpoint
 
+Live site: https://YOUR-USERNAME.github.io/week-1-checkpoint/
+
 ## My setup
 
 - Operating system:
